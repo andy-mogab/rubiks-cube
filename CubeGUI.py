@@ -1,10 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 12 16:17:56 2019
-
-@author: Andy
-"""
 from Rubiks_Cube import Cube, Face
 import math
 import random
