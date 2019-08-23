@@ -1,3 +1,11 @@
 Demo
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZyTjWV-8E5c/0.jpg)](http://www.youtube.com/watch?v=ZyTjWV-8E5c)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZyTjWV-8E5c
+" target="_blank"><img src="http://img.youtube.com/vi/ZyTjWV-8E5c/0.jpg" 
+alt="Demo Video" width="800" height="600" border="10" /></a>
+
+
+
+&t=15s
+
